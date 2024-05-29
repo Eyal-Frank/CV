@@ -1,0 +1,8 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#421470; border: 6px solid #9B0F0F; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+.textstyle2 { font-size:24pt; font-family:Verdana, Geneva, sans-serif; color:#FFFFFF;  }
+.textstyle3 { font-size:18pt; font-family:Verdana, Geneva, sans-serif; color:#FFFFFF;  }
